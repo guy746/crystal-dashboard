@@ -3,7 +3,7 @@ import generateData from '../generateData';
 import StripedTable from './StripedTable';
 import PlainBackgroundTable from './PlainBackgroundTable';
 
-const data = generateData(5);
+const data = generateData(15);
 
 const RegularTables = () => (
   <div className="container-fluid">
