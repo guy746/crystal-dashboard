@@ -1,6 +1,6 @@
-import faker from 'faker';
+import faker from 'faker2';
 
-export default (limit = 3, arrayData = false) => {
+export default (limit = 5, arrayData = false) => {
   const data = [];
   for (let i = 1; i <= limit; i++) {
     let row = null;
