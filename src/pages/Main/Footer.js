@@ -27,8 +27,8 @@ const Footer = () => (
           </li>
         </ul>
       </nav>
-      <p className="copydog pull-right">
-        © 2017 <a href="http://jslancer.com">JSLancer</a>, made with love for a better web
+      <p className="copyright pull-right">
+        © 2017 <a href="http://google.com">google test</a>, made with love for a better web
       </p>
     </div>
   </footer>
