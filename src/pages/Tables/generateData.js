@@ -1,6 +1,6 @@
 import faker from 'faker';
 
-export default (limit = 15, arrayData = false) => {
+export default (limit = 3, arrayData = false) => {
   const data = [];
   for (let i = 1; i <= limit; i++) {
     let row = null;
