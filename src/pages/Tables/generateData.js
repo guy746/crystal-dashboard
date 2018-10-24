@@ -1,4 +1,4 @@
-import faker from 'faker2';
+import faker from 'faker';
 
 export default (limit = 5, arrayData = false) => {
   const data = [];
